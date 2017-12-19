@@ -6,5 +6,7 @@ int main() {
 	cin >> a, b;
 	cout << "div: " << a / b << endl;
 	cout << "mul: " << a * b << endl;
+	cout << "sum: " << a + b << endl;
+
 	return 0;
 }
