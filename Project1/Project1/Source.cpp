@@ -5,5 +5,6 @@ int main() {
 	int a, b;
 	cin >> a, b;
 	cout << "div: " << a / b << endl;
+	cout << "mul: " << a * b << endl;
 	return 0;
 }
